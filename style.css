@@ -22,6 +22,7 @@ body{
     background-size: cover;
     padding: 30px 45px;
     box-sizing: border-box;
+    background-position: center;
 }
 .header{
     display: flex;
